@@ -16,9 +16,9 @@ WRSNSim is a simulator environment which simulates a network of stationary and m
 ## Node Types
 The simulator creates two types of nodes (working concurrently), stationary and mobile. Every node have its own battery, sensor, motors and transceivers such as z-wave, zigbee or Wi-Fi. Mobile nodes has the ability to move and usually can have better features in a matter of battery capacity and transceivers power. However, stationery nodes have lower specifications. 
 
-The simulator allows to test different algorithms for different environment. For example, static nodes can be assumed as vending machine with limited resources. And mobile nodes can be assumed as trucks providing supply for the vending machine. Different algorithm can be tested with the simulator to creates efficiency in using trucks and providing a great service. However, the project is created to be a test-bed to compare different type of routing protocols for the wireless sensor networks.
+The simulator allows to test different algorithms for different environment. For example, static nodes can be assumed as vending machine with limited resources. And mobile nodes can be assumed as trucks providing supply for the vending machine.
 
 ## System Architecture
-![](https://github.com/alikhorsandian/Wireless-Sensor-Network-IOT-Simulator/blob/master/doc/images/architecture.jpg)
+![image 3](https://github.com/alikhorsandian/Wireless-Sensor-Network-IOT-Simulator/blob/master/doc/images/architecture.jpg)
 
 
