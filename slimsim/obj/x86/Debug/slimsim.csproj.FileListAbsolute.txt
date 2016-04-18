@@ -1,0 +1,29 @@
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\bin\Debug\slimsim.exe
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\bin\Debug\slimsim.pdb
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.Form1.resources
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.Properties.Resources.resources
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.csproj.GenerateResource.Cache
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.exe
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.pdb
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.csprojResolveAssemblyReference.cache
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\bin\Debug\slimsim.exe.manifest
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\bin\Debug\slimsim.application
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.exe.manifest
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.application
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.Form2.resources
+C:\Users\ak409\documents\visual studio 2010\Projects\slimsim\slimsim\obj\x86\Debug\slimsim.Form3.resources
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.exe
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.pdb
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\bin\Debug\slimsim.exe.manifest
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\bin\Debug\slimsim.application
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\bin\Debug\slimsim.exe
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\bin\Debug\slimsim.pdb
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.csprojResolveAssemblyReference.cache
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.Form1.resources
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.Form2.resources
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.Form3.resources
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.Properties.Resources.resources
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.csproj.GenerateResource.Cache
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.exe.manifest
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.application
+C:\Users\Neda\Desktop\Ali\slimsim\slimsim\obj\x86\Debug\slimsim.Form4.resources
